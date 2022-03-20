@@ -1,1 +1,2 @@
-https://VitaliyTurchinski.github.io/rsschool-cv/cv
+# rsschool-cv
+https://VitaliyTurchinski.github.io/rsschool-cv/
